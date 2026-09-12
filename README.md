@@ -1,7 +1,3 @@
-# Superstore-Sales-Profitability-Analytics
-Superstore Sales Analysis using Python — exploring sales, profitability, discounts, and business insights.
-
-
 # Superstore Revenue & Profitability Optimization Analysis
 
 An end-to-end exploratory data analysis (EDA) that uncovers revenue drivers, evaluates the impact of discounting, and identifies where a retail superstore's revenue is and isn't translating into profit.
@@ -72,16 +68,20 @@ Recommendation: Continue focusing on the Consumer segment for profitable revenue
 ## Repository Structure
 
 ```
-├── superstore_sales.ipynb     # Full analysis: cleaning, feature engineering, EDA
-├── Sample - Superstore.csv    # Dataset used
+├── superstore_sales.ipynb       # Full analysis: cleaning, feature engineering, EDA
+├── Sample - Superstore.csv      # Dataset used
+├── dashboard_screenshot.png     # Power BI dashboard preview
 └── README.md
 ```
 
 ## **Interactive Power BI Dashboard**
 To make these insights actionable for business stakeholders, the findings from the exploratory data analysis were translated into an interactive Power BI dashboard. 
 
-![Power BI Dashboard](
-)
+POWER BI DASHBOARD
+
+<img width="741" height="398" alt="image" src="https://github.com/user-attachments/assets/49256d01-0dd9-4d80-8e28-e65b92d3f0eb" />
+
+
 
 **Dashboard Features:**
 * **Dynamic Filtering:** Slicers for Region, Category, Segment, and Discount Band allow stakeholders to drill down into specific market segments.
